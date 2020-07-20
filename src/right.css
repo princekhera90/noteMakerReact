@@ -1,0 +1,35 @@
+.right{
+    float : right;
+    top : 50px;
+    width : 50%;
+    right : 2%;
+    position: relative;
+    height: 100%;
+}
+.content{
+    display: flex;
+    margin-bottom: 30px;
+}
+.content_right{
+}
+.content_left{
+    width : 70%;
+    margin-right: 20px;
+}
+.date {
+    margin-bottom: 10px;
+}
+
+.title{
+    margin-bottom: 10px;
+}
+
+.note{
+    word-break: break-all;
+    font-size: 18px;
+}
+.line{
+    width: 100%;
+    position : inherit;
+    margin-bottom: 20px;
+}

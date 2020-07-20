@@ -1,0 +1,7 @@
+.bar{
+    position : fixed;
+    height: 100%;
+    width : 1%;
+    left : 35%;
+    background-color: grey;
+}

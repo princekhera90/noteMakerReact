@@ -1,0 +1,11 @@
+.calender{
+    float : left;
+    top : 50px;
+    width : 30%;
+    left : 2%;
+    position: relative;
+}
+
+#cal{
+    width : 50%;
+}
